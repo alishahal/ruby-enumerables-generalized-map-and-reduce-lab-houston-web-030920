@@ -11,5 +11,5 @@ end
   
    
 def reduce(array, start)
-  
+  if start then 
  
