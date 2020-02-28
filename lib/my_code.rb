@@ -1,5 +1,6 @@
 # Your Code Here
-def map
+def map(array)
   new_array = []
+  
   
   
