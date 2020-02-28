@@ -15,7 +15,7 @@ def reduce(array, start)
     i=0 
     sum = start
   else 
-   i=1
-   sum=array[0]
+    i=1
+    sum=array[0]
   
  
