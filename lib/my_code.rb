@@ -11,5 +11,5 @@ end
   
    
 def reduce(array, start)
-  if start then (i=0, )
+  if start then (i=0, sum =)
  
