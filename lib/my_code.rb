@@ -11,3 +11,4 @@ end
   
    
    
+def reduce()
